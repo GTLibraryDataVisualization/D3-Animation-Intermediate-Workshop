@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+/*body {
+  background-color: lightblue;
+}*/
+
+/*body {
+    background-color: #d9d9d9;
+}*/
+
+
+g.tick text {
+  font-size: 18px;
+  fill: lightyellow;
+}
+
+g.axisY path{
+  stroke-width: 0.5px;
+  stroke: white;
+}
+
+g.axisX path{
+  stroke-width: 1px;
+  stroke: white;
+}
+
+g.axisY line{
+  stroke: white;
+  fill: white;
+}
+
+g.axisX line{
+  stroke: white;
+  fill: white;
+}
